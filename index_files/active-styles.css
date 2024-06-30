@@ -1,0 +1,17 @@
+/*  MICROTHEMER STYLES  */
+
+
+/*= General =================== */
+
+/** General >> Link teléfono **/
+#menu-item-219 > a {
+	color: rgb(0, 0, 0) !important;
+	font-size: 21px !important;
+}
+
+/** General >> Link teléfono fixed **/
+.et-fixed-header #menu-item-219 > a {
+	color: rgb(0, 0, 0) !important;
+	font-size: 21px !important;
+}
+
